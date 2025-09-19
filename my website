@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head><title>My website</title>
+    <link rel="stylesheet" href="style1.css" > </head>
+    <body>
+        <header><p><h1>Welcome to my Website</h1></p></header>
+        <div class="main">
+         <aside class="col">
+            <ul>
+                <li><a href="#1">Home</a></li>
+                <li><a href="#2">Services</a></li>
+                <li><a href="#3">About</a></li>
+                <li><a href="#4">Contact</a></li>
+            </ul>
+         </aside>
+        
+
+        <article class="left col">
+            <p><h1>Hello World!</h1></p>
+        <p><h3>Welcome to my site.</h3></p>
+        <hr>
+        <p>My name is Dinesh Gowda.</p>
+        Cascading Style Sheets (CSS) is a powerful tool used to style and layout web pages. It allows developers to control the appearance of HTML elements, including colors, fonts, spacing, positioning, and responsiveness across devices. CSS separates content (HTML) from presentation, enabling consistent and modular designs.<br>
+        
+
+
+        <div>HTML</div>
+        </article>
+            
+         
+        <aside class="col">>side main</aside>
+            
+            
+    </aside>
+        </div>
+        <footer class="footer">
+        <div>Thank you for visiting Dinesh Gowda</div>
+
+        
+        
+        <a href="myID">Go to the top element with ID of myID.</a>
+
+    
+            
+        
+        <p class="green">TEST</p>
+    
+        </footer>
+    </body>
+</html>
